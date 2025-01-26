@@ -1,0 +1,11 @@
+<resources>
+    <string name="hint_faculty_name">Enter Name</string>
+    <string name="hint_doj">DD/MM/YYYY</string>
+    <string name="text_gender">Gender:</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="text_doj">Date of Join:</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="content_description_date_picker">Open Date Picker</string>
+    <string name="app_name">string</string>
+</resources>
